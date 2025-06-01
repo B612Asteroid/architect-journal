@@ -12,6 +12,21 @@
 
 ### 🔍 주제 목록
 
-- (TO be)
+- Caching
+- DDD 철학 공부 일기
+- Domain 행동 전략
+- IaC
+- Jenkins
+- LinkHelper 도입하고 걷어낸 사연
+- Log
+- Logging
+- Nest.js 도입기
+- SSE
+- ServicePart로 의미단위 서비스 분리
+- axios 커스터마이징
+- docker-compose.yml로 배포 git에 보관
+- persistableLink
+- presigned-url 발급 흐름
+- redis 도입
 
 👉 [전체 포트폴리오 사이트 보기](https://sterlingtechnote.super.site)
