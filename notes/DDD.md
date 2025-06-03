@@ -80,6 +80,22 @@ class OrderService {
 }
 ```
 
+## 🧭 전략적 설계 (Strategic Design)
+	•	어떤 도메인을 누구 팀이 맡을 것인가?
+	•	팀 간 의존성을 어떻게 설계할 것인가?
+	•	도메인 간 메시지 흐름(Bounded Context, Context Map)
+
+→ 회사 전체(조직)을 지휘하는 방식에 대한 서술
+
+⸻
+
+## 🧰 전술적 설계 (Tactical Design)
+	•	도메인을 어떻게 클래스, 폴더, 메서드로 나눌까?
+	•	Entity / VO / Repository / UseCase / Orchestrator 정의
+	•	흐름 단위의 유닛 테스트 가능한 구조 만들기
+
+→ 이건 일상적인 “코드 설계자”로서의 책임
+
 ## 도입하지 않은 이유
 
 - 코드가 많아진다. → 작은 서비스에선 오히려 구조 과잉
